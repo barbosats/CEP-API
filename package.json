@@ -1,0 +1,16 @@
+{
+  "name": "my-node-api",
+  "version": "1.0.0",
+  "description": "A simple Node.js API to fetch address data from ViaCEP using a postal code (CEP).",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.4",
+    "express": "^4.21.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
