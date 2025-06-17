@@ -1,55 +1,39 @@
 # My Node API
 
-This project is a simple Node.js API that retrieves address information based on Brazilian postal codes (CEPs) using the ViaCEP API.
+# 🧠 Instalação e Configuração do GitHub Copilot no VS Code
 
-## Table of Contents
+Este projeto faz parte de um desafio da DIO. O objetivo é aprender a instalar e usar o **GitHub Copilot** no **Visual Studio Code** (VS Code), uma ferramenta que ajuda a escrever código mais rápido com inteligência artificial.
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoint](#api-endpoint)
-- [License](#license)
+---
 
-## Installation
+## ✅ O que é o GitHub Copilot?
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/my-node-api.git
-   ```
+O Copilot é um assistente que sugere código enquanto você digita. Ele pode ajudar a criar funções, completar trechos de código e até dar ideias de como resolver um problema.
 
-2. Navigate to the project directory:
-   ```
-   cd my-node-api
-   ```
+---
 
-3. Install the dependencies:
-   ```
-   npm install
-   ```
+## 🛠️ O que eu fiz
 
-## Usage
+1. Instalei o GitHub Copilot no VS Code.
+2. Fiz login com minha conta do GitHub.
+3. Ativei a extensão do Copilot.
+4. Testei o Copilot escrevendo códigos simples.
+5. Usei o Copilot Chat para tirar dúvidas e pedir explicações.
 
-To start the server, run the following command:
-```
-npm start
-```
+---
 
-The server will start on `http://localhost:3000`.
+## 💡 O que aprendi
 
-## API Endpoint
+- O Copilot ajuda a escrever código mais rápido.
+- Ele também pode explicar trechos de código.
+- Dá para usar o chat do Copilot como se fosse um colega de trabalho.
+- Mesmo com a ajuda da IA, é importante entender o que o código está fazendo.
 
-To retrieve address information by CEP, send a GET request to the following endpoint:
+---
 
-```
-GET /cep/:cep
-```
+## 🔮 Como posso usar no futuro?
 
-Replace `:cep` with the desired postal code. For example:
-```
-GET /cep/01001-000
-```
-
-The response will contain the address information in JSON format.
-
-## License
-
-This project is licensed under the MIT License.
+- Para criar funções mais rápido.
+- Para entender códigos difíceis.
+- Para praticar novas linguagens.
+- Para estudar com mais autonomia.
